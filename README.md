@@ -22,4 +22,5 @@ This application demonstrates knowledge and usage of Express. It features the de
 
 ## Here is what shows up in my terminal:
 
-![screenshot] (https://raw.githubusercontent.com/kbroz1/meal-app/main/Screen%20Shot%202021-09-16%20at%205.51.21%20PM.png)
+![](ttps://raw.githubusercontent.com/kbroz1/meal-app/main/Screen%20Shot%202021-09-16%20at%205.51.21%20PM.png)
+
