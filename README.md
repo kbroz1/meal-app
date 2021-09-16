@@ -19,5 +19,7 @@ This application demonstrates knowledge and usage of Express. It features the de
 ## Here is my Code:
 ![Here is my code](https://raw.githubusercontent.com/kbroz1/meal-app/main/meal-app-snapshot.png)
 
-##Here is what shows up in my terminal:
-![Here is what shows up in my terminal] (https://raw.githubusercontent.com/kbroz1/meal-app/main/Screen%20Shot%202021-09-16%20at%205.51.21%20PM.png)
+
+## Here is what shows up in my terminal:
+
+![screenshot] (https://raw.githubusercontent.com/kbroz1/meal-app/main/Screen%20Shot%202021-09-16%20at%205.51.21%20PM.png)
